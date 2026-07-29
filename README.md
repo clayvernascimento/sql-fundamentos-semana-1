@@ -1,1 +1,1 @@
-# sql-fundamentos-semana-1
+Neste projeto pratiquei os fundamentos de SQL: SELECT, FROM, WHERE, AND, OR, NOT e DISTINCT. O objetivo foi aprender a realizar consultas básicas em um banco de dados relacional.
